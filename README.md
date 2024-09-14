@@ -1,2 +1,2 @@
 # DevOps Assignment
-This is the development branch.
+This is the main branch.
